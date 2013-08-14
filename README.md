@@ -1,7 +1,7 @@
 # Archimedes Documentation
 
 This is a documentation site under development for
-[Archimeds](http://github.com/clojurewerkz/archimedes). Copy or clone
+[Archimedes](http://github.com/clojurewerkz/archimedes). Copy or clone
 me and adapt for your project that needs documentation guides similar
 to [rubyamqp.info](http://rubyamqp.info),
 [clojuremongodb.info](http://clojuremongodb.info) and so on.
